@@ -1,0 +1,7 @@
+naresh M 30 python
+ravi M 22 c
+akansha F 34 java
+ravina F 33 ruby
+bhanu M 35 java
+vikas M 11 shell
+jiya F 39 perl
